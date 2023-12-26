@@ -1,0 +1,13 @@
+<svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#zoomA)" stroke="currentColor" stroke-opacity=".6" stroke-width="1.5">
+    <rect x="1.845" y="24.453" width="14.267" height="14.267" rx="2"/>
+    <path d="M8.086 24.156V3.281a2 2 0 0 1 2-2h27.196a2 2 0 0 1 2 2v27.196a2 2 0 0 1-2 2H16.006"
+          stroke-dasharray="3 3"/>
+    <path d="M20.12 15.542h5.793v5.794M18.128 23.326l7.577-7.576" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <defs>
+    <clipPath id="zoomA">
+      <path fill="#fff" transform="translate(.563)" d="M0 0h40v40H0z"/>
+    </clipPath>
+  </defs>
+</svg>

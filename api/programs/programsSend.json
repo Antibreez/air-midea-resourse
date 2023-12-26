@@ -1,0 +1,205 @@
+{
+    "success": true,
+    "result": {
+        "counter": "39 результатов",
+        "isMoreBtn": true,
+        "items": [
+            {
+                "title": "Серия Breezeless",
+                "images": [
+                    {
+                        "lg": "tmp/product-card/1.png",
+                        "lgx2": "tmp/product-card/1.png",
+                        "sm": "tmp/product-card/1.png",
+                        "smx2": "tmp/product-card/1.png"
+                    },
+                    {
+                        "lg": "tmp/product-card/2.png",
+                        "lgx2": "tmp/product-card/2.png",
+                        "sm": "tmp/product-card/2.png",
+                        "smx2": "tmp/product-card/2.png"
+                    }
+                ],
+                "params": [
+                    "Класс энергоэффективности <b>А+++</b>",
+                    "ERP 3D DC-Inverter",
+                    "Гарантия 5 лет"
+                ],
+                "price": "35 000",
+                "url": "#obj1"
+            },
+            {
+                "title": "Серия Paramount Inverter",
+                "images": [
+                    {
+                        "lg": "tmp/product-card/1.png",
+                        "lgx2": "tmp/product-card/1.png",
+                        "sm": "tmp/product-card/1.png",
+                        "smx2": "tmp/product-card/1.png"
+                    },
+                    {
+                        "lg": "tmp/product-card/2.png",
+                        "lgx2": "tmp/product-card/2.png",
+                        "sm": "tmp/product-card/2.png",
+                        "smx2": "tmp/product-card/2.png"
+                    }
+                ],
+                "params": [
+                    "Класс энергоэффективности <b>А+++</b>",
+                    "ERP 3D DC-Inverter",
+                    "ERP 3D DC-Inverter",
+                    "Гарантия 5 лет"
+                ],
+                "price": "180 000",
+                "url": "#obj33"
+            },
+            {
+                "title": "Серия Breezeless",
+                "images": [
+                    {
+                        "lg": "tmp/product-card/1.png",
+                        "lgx2": "tmp/product-card/1.png",
+                        "sm": "tmp/product-card/1.png",
+                        "smx2": "tmp/product-card/1.png"
+                    },
+                    {
+                        "lg": "tmp/product-card/2.png",
+                        "lgx2": "tmp/product-card/2.png",
+                        "sm": "tmp/product-card/2.png",
+                        "smx2": "tmp/product-card/2.png"
+                    }
+                ],
+                "params": [
+                    "Класс энергоэффективности <b>А+++</b>",
+                    "ERP 3D DC-Inverter",
+                    "Гарантия 5 лет"
+                ],
+                "price": "35 000",
+                "url": "#obj1"
+            },
+            {
+                "title": "Серия Paramount Inverter",
+                "images": [
+                    {
+                        "lg": "tmp/product-card/1.png",
+                        "lgx2": "tmp/product-card/1.png",
+                        "sm": "tmp/product-card/1.png",
+                        "smx2": "tmp/product-card/1.png"
+                    },
+                    {
+                        "lg": "tmp/product-card/2.png",
+                        "lgx2": "tmp/product-card/2.png",
+                        "sm": "tmp/product-card/2.png",
+                        "smx2": "tmp/product-card/2.png"
+                    }
+                ],
+                "params": [
+                    "Класс энергоэффективности <b>А+++</b>",
+                    "ERP 3D DC-Inverter",
+                    "ERP 3D DC-Inverter",
+                    "Гарантия 5 лет"
+                ],
+                "price": "180 000",
+                "url": "#obj33"
+            },
+            {
+                "title": "Серия Breezeless",
+                "images": [
+                    {
+                        "lg": "tmp/product-card/1.png",
+                        "lgx2": "tmp/product-card/1.png",
+                        "sm": "tmp/product-card/1.png",
+                        "smx2": "tmp/product-card/1.png"
+                    },
+                    {
+                        "lg": "tmp/product-card/2.png",
+                        "lgx2": "tmp/product-card/2.png",
+                        "sm": "tmp/product-card/2.png",
+                        "smx2": "tmp/product-card/2.png"
+                    }
+                ],
+                "params": [
+                    "Класс энергоэффективности <b>А+++</b>",
+                    "ERP 3D DC-Inverter",
+                    "Гарантия 5 лет"
+                ],
+                "price": "35 000",
+                "url": "#obj1"
+            },
+            {
+                "title": "Серия Paramount Inverter",
+                "images": [
+                    {
+                        "lg": "tmp/product-card/1.png",
+                        "lgx2": "tmp/product-card/1.png",
+                        "sm": "tmp/product-card/1.png",
+                        "smx2": "tmp/product-card/1.png"
+                    },
+                    {
+                        "lg": "tmp/product-card/2.png",
+                        "lgx2": "tmp/product-card/2.png",
+                        "sm": "tmp/product-card/2.png",
+                        "smx2": "tmp/product-card/2.png"
+                    }
+                ],
+                "params": [
+                    "Класс энергоэффективности <b>А+++</b>",
+                    "ERP 3D DC-Inverter",
+                    "ERP 3D DC-Inverter",
+                    "Гарантия 5 лет"
+                ],
+                "price": "180 000",
+                "url": "#obj33"
+            },
+            {
+                "title": "Серия Breezeless",
+                "images": [
+                    {
+                        "lg": "tmp/product-card/1.png",
+                        "lgx2": "tmp/product-card/1.png",
+                        "sm": "tmp/product-card/1.png",
+                        "smx2": "tmp/product-card/1.png"
+                    },
+                    {
+                        "lg": "tmp/product-card/2.png",
+                        "lgx2": "tmp/product-card/2.png",
+                        "sm": "tmp/product-card/2.png",
+                        "smx2": "tmp/product-card/2.png"
+                    }
+                ],
+                "params": [
+                    "Класс энергоэффективности <b>А+++</b>",
+                    "ERP 3D DC-Inverter",
+                    "Гарантия 5 лет"
+                ],
+                "price": "35 000",
+                "url": "#obj1"
+            },
+            {
+                "title": "Серия Paramount Inverter",
+                "images": [
+                    {
+                        "lg": "tmp/product-card/1.png",
+                        "lgx2": "tmp/product-card/1.png",
+                        "sm": "tmp/product-card/1.png",
+                        "smx2": "tmp/product-card/1.png"
+                    },
+                    {
+                        "lg": "tmp/product-card/2.png",
+                        "lgx2": "tmp/product-card/2.png",
+                        "sm": "tmp/product-card/2.png",
+                        "smx2": "tmp/product-card/2.png"
+                    }
+                ],
+                "params": [
+                    "Класс энергоэффективности <b>А+++</b>",
+                    "ERP 3D DC-Inverter",
+                    "ERP 3D DC-Inverter",
+                    "Гарантия 5 лет"
+                ],
+                "price": "180 000",
+                "url": "#obj33"
+            }
+        ]
+    }
+}

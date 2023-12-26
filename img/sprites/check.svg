@@ -1,0 +1,11 @@
+<svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#checkA)">
+    <path d="M4 8.143 6.91 11l6-6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+          stroke-linejoin="round"/>
+  </g>
+  <defs>
+    <clipPath id="checkA">
+      <path fill="#fff" d="M0 0h16v16H0z"/>
+    </clipPath>
+  </defs>
+</svg>
